@@ -36,7 +36,7 @@ Tailwind CSS
 
 Backend
 
-(Add your backend: Node.js / Firebase / Supabase)
+ Node.js / Firebase / Supabase)
 
 Authentication
 
@@ -45,18 +45,7 @@ Google OAuth
 Deployment
 
 Vercel
-⚙️ Installation & Setup
-# Clone the repository
-git clone https://github.com/your-username/echoo.git
 
-# Navigate into project
-cd echoo
-
-# Install dependencies
-npm install
-
-# Run locally
-npm run dev
 📌 Usage
 Sign in using Google
 Start or join a meeting
